@@ -11,7 +11,7 @@
     "prebuild": "rimraf .next"
   },
   "dependencies": {
-    "@babel/runtime": "^7.24.7",
+    "@babel/runtime": "^7.24.8",
     "@stylexjs/stylex": "^0.7.5",
     "@types/react": "npm:types-react@rc",
     "@types/react-dom": "npm:types-react-dom@rc",
